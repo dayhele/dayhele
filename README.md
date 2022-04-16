@@ -1,4 +1,10 @@
-## Olá, me chamo Dayhele e sou desenvolvedora Front-end! 
+# Seja bem vindo ao meu Github! 💛
+
+Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer um pouco mais sobre mim. </br>
+Saiba que em cada projeto em que atuo eu coloco todo o amor que tenho pela minha profissão 👩🏻‍💻
+
+## Linguagens e atuação
+
 <div align="center">
   <a href="https://github.com/dayhele">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayhele&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
@@ -13,8 +19,15 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/51999715/163654006-e1c3f479-e9a8-4dcc-b8b5-656dc06eebc2.png?width=676&height=676">
 
 </div>
+
+ ##
   
-  ##
+ ### Sempre busco aplicar boas práticas, modernidade e usabilidade! 
+ Utilizo SMACSS e metodologia BEM para que o código seja legível e escalável.
+  
+ ##
+  
+ #### Entre em contato:
  
 <div> 
 
