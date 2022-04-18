@@ -1,37 +1,41 @@
-# Seja bem vindo ao meu Github! 💛
+# Seja bem vindo ao meu Github! 💛 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/51999715/163885580-bc303002-0342-40fc-84a6-547a6605b9eb.png">
 
 Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer um pouco mais sobre meu trabalho. </br>
 Saiba que em cada projeto em que atuo eu coloco todo o amor que tenho pela minha profissão 👩🏻‍💻
 
 ## Linguagens e atuação
 
-<div align="center">
-  <a href="https://github.com/dayhele">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayhele&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayhele&layout=compact&langs_count=7&theme=slateorange"/>
-</div>
-<div align="left"><br>
+<div align="left">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/51999715/163654006-e1c3f479-e9a8-4dcc-b8b5-656dc06eebc2.png?width=676&height=676">
-
+ 
 </div>
 
+###
+
+<div align="center">
+  <a href="https://github.com/dayhele">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayhele&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayhele&layout=compact&langs_count=7&theme=slateorange"/>
+</div>
+  
  ##
   
  ### Sempre busco aplicar boas práticas, modernidade e usabilidade! 
  Utilizo SMACSS e metodologia BEM para que o código seja legível e escalável.
   
- ##
+ ###
   
  #### Entre em contato:
- 
+  
 <div> 
 
   <a href="https://instagram.com/dayhele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dayhelepereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dayhele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
+
 </div>
