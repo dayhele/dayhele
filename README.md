@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu Github! 💛
 
-Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer um pouco mais sobre mim. </br>
+Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer um pouco mais sobre meu trabalho. </br>
 Saiba que em cada projeto em que atuo eu coloco todo o amor que tenho pela minha profissão 👩🏻‍💻
 
 ## Linguagens e atuação
