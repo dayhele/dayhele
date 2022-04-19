@@ -23,10 +23,15 @@ Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer 
   
  ##
   
- ### Sempre busco aplicar boas práticas, modernidade e usabilidade! 
- Utilizo SMACSS e metodologia BEM para que o código seja legível e escalável.
+ ### Sempre busco aplicar boas práticas, modernidade e usabilidade! 🤓
+ * Utilizo **SMACSS** e metodologia **BEM** para que o código seja legível e escalável;
+ * Foco em **SEO** utilizando HTML semântico, performance e responsividade;
   
- ###
+ ### Uma curiosidade: possuo interesse na área de UI/UX design. 👩🏻‍🎨
+ - Possuo conhecimento em **Adobe XD** e **Figma** (minha ferramenta preferida 💓);
+ - Já desenvolvi telas em alguns projetos em que atuei como dev front-end e também no meu portfólio;
+   
+ ##
   
  #### Entre em contato:
   
