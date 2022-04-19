@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu Github! 💛 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/51999715/163885580-bc303002-0342-40fc-84a6-547a6605b9eb.png">
 
-Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer um pouco mais sobre meu trabalho. Saiba que em cada projeto em que atuo eu coloco todo o amor que tenho pela minha profissão 👩🏻‍💻
+Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer um pouco mais sobre meu trabalho. 👩🏻‍💻
 
 ## Linguagens e atuação
 
