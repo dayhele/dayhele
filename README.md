@@ -40,6 +40,7 @@ Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer 
   <a href="https://instagram.com/dayhele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dayhelepereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dayhele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dayhele" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
    
 
 </div>
