@@ -1,5 +1,4 @@
-# Seja bem vindo ao meu Github! 💛 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-
+# Seja bem vindo ao meu Github! 💛 
 Olá, me chamo Dayhele e sou desenvolvedora Front end! Aqui você pode conhecer um pouco mais sobre meu trabalho. 👩🏻‍💻
 
 ## Linguagens e atuação
