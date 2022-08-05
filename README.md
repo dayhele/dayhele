@@ -21,10 +21,11 @@ Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer 
 </div>
   
  ##
+ 
+ ### Atualmente tenho focado meus estudos em React realizando cursos, lendo artigos e fazendo projetos pessoais. ⚛️
   
  ### Sempre busco aplicar boas práticas, modernidade e usabilidade! 🤓
- * Utilizo **SMACSS** e metodologia **BEM** para que o código seja legível e escalável;
- * Foco em **SEO** utilizando HTML semântico, performance e responsividade;
+ * Foco em **SEO** utilizando HTML semântico, buscando melhorias para obter performance e responsividade;
   
  ### Uma curiosidade: possuo interesse na área de UI/UX design. 👩🏻‍🎨
  - Possuo conhecimento em **Adobe XD** e **Figma** (minha ferramenta preferida 💓);
