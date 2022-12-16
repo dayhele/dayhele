@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu Github! 💛 
+# Seja bem vindo ao meu Github! 💖
 Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer um pouco mais sobre meu trabalho. 👩🏻‍💻
 
 ## Linguagens e atuação
@@ -15,8 +15,8 @@ Olá, me chamo Dayhele e sou desenvolvedora Front-end! Aqui você pode conhecer 
 
 <div align="center">
   <a href="https://github.com/dayhele">
-  <img height="180em" src="https://github-readme-stats-dayhele.vercel.app/api?username=dayhele&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-dayhele.vercel.app/api/top-langs/?username=dayhele&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="180em" src="https://github-readme-stats-dayhele.vercel.app/api?username=dayhele&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-dayhele.vercel.app/api/top-langs/?username=dayhele&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
  ##
