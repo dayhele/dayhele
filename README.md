@@ -23,7 +23,7 @@ Olá, me chamo Dayhele e sou Desenvolvedora Front-end! Aqui você pode conhecer 
   
  ##
  
- ### Atualmente tenho focado meus estudos em React ⚛️:
+ ### Atualmente tenho focado meus estudos em React.js ⚛️:
  - Venho realizando cursos, lendo artigos e fazendo projetos pessoais. 
   
  ### Sempre busco aplicar boas práticas, modernidade e usabilidade! 🤓
@@ -32,6 +32,9 @@ Olá, me chamo Dayhele e sou Desenvolvedora Front-end! Aqui você pode conhecer 
  ### Uma curiosidade: possuo interesse na área de UI/UX design. 👩🏻‍🎨
  - Possuo conhecimento em **Adobe XD** e **Figma** (minha ferramenta preferida 💓);
  - Já desenvolvi telas em alguns projetos em que atuei como dev front-end e também no meu portfólio;
+
+ ### Ampla experiência na área de desenvolvimento web Front-end: 👩🏻‍💻
+ - Já atuei em diversas empresas de diferentes ramos, sendo eles: logística/e-commerce, entretenimento e agência de publicidade.
    
  ##
   
