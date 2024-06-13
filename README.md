@@ -22,19 +22,21 @@ Olá, me chamo Dayhele e sou Desenvolvedora Front-end! Aqui você pode conhecer 
 </div>
   
  ##
- 
- ### Atualmente tenho focado meus estudos em React.js ⚛️:
- - Venho realizando cursos, lendo artigos e fazendo projetos pessoais. 
-  
- ### Sempre busco aplicar boas práticas, modernidade e usabilidade! 🤓
- * Foco em **SEO** utilizando HTML semântico, buscando melhorias para obter performance e responsividade;
-  
- ### Uma curiosidade: possuo interesse na área de UI/UX design. 👩🏻‍🎨
- - Possuo conhecimento em **Adobe XD** e **Figma** (minha ferramenta preferida 💓);
- - Já desenvolvi telas em alguns projetos em que atuei como dev front-end e também no meu portfólio;
 
  ### Ampla experiência na área de desenvolvimento web Front-end: 👩🏻‍💻
  - Já atuei em diversas empresas de diferentes ramos, sendo eles: logística/e-commerce, entretenimento e agência de publicidade.
+ 
+ ### Atualmente tenho focado meus estudos em React.js ⚛️ e Next.js:
+ - Venho realizando cursos, lendo artigos e fazendo projetos pessoais.
+ - Possuo experiência profissional com ambas tecnologias e busco sempre estar atualizada ;)
+  
+ ### Boas práticas, modernidade e usabilidade! 🤓
+ * Foco em **SEO** utilizando HTML semântico, buscando melhorias para obter performance e responsividade;
+ * Código limpo e organizado para melhor compreensão e manutenção;
+  
+ ### Sou entusiasta da área de Design de Produto 👩🏻‍🎨
+ - Possuo conhecimento em **Figma**, e tenho certa experiência em prototipação de telas para melhorias e novas features em projetos reais em que atuei em minha carreira;
+ - Acredito que Front-end e UI/UX estão interligadas e são extremamente importantes para o sucesso de um produto, por isso, sempre busco aplicar Pixel Perfect e estar atualizada em relação as ferramentes, estudos e tendências;
    
  ##
   
